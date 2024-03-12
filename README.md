@@ -1,2 +1,2 @@
-# ItHub_JavaScript
-[It Hub].Дисциплина JavaScript
+# It Hub
+2024 2 семестр
